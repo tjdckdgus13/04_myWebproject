@@ -7,7 +7,7 @@
 	Member m = (Member)session.getAttribute("member");
 %>
 
-<h1 align="center" ><a id="what"  href="/myWeb/index.jsp"  >Welcome to My Web</a></h1>
+<h1 align="center" ><a id="what"  href="/myWeb/index.jsp"  >Welcome to My Web!!</a></h1>
 
 <div class="loginArea">
 	<% if (m == null ){  %>
